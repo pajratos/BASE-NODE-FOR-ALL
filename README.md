@@ -1,6 +1,6 @@
 <p style="text-align:center;"><img src="/images/logo.svg" width"300px" height="auto" alt="Logo"></p>
 
-
+ww
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/nanocurrency/nano-node)](https://github.com/nanocurrency/nano-node/releases/latest)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/nanocurrency/nano-node?color=darkblue&label=beta)](https://github.com/nanocurrency/nano-node/tags)
